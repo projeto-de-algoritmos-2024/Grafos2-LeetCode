@@ -1,6 +1,6 @@
 ## #753 - Cracking the Safe
 
-![Enunciado_Cracking](https://github.com/user-attachments/assets/72d98c35-2c56-434e-b86c-ebb1b15eb0b4)
+(enunciado)
 
 [Link para a questão](https://leetcodecomproblemsfind-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
@@ -18,21 +18,21 @@ Note that you can return the indices of the edges in any order.
 
 Example 1:
 
-(imagem)
+![image](https://github.com/user-attachments/assets/500a8dbc-c668-4a01-b679-4e08c8c9144f)
 
 Input: n = 5, edges = [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]]
 Output: [[0,1],[2,3,4,5]]
 Explanation: The figure above describes the graph.
 The following figure shows all the possible MSTs:
 
-(imagem)
+![image](https://github.com/user-attachments/assets/4e384437-bf29-46fd-999a-e078b5a28264)
 
 Notice that the two edges 0 and 1 appear in all MSTs, therefore they are critical edges, so we return them in the first list of the output.
 The edges 2, 3, 4, and 5 are only part of some MSTs, therefore they are considered pseudo-critical edges. We add them to the second list of the output.
 
 Example 2:
 
-(imagem)
+![image](https://github.com/user-attachments/assets/86203dec-8e02-428e-a93c-e1bf11c14196)
 
 Input: n = 4, edges = [[0,1,1],[1,2,1],[2,3,1],[0,3,1]]
 Output: [[],[0,1,2,3]]
