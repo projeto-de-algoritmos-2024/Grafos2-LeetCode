@@ -1,6 +1,6 @@
 ## #1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
-(enunciado)
+![image](https://github.com/user-attachments/assets/6d34392b-9bb3-4e4e-839b-534b7f63e586)
 
 [Link para a questão](https://leetcodecomproblemsfind-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
 
@@ -49,6 +49,9 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/d3b2fcef-db43-4336-a91b-7b7367d6c853)
+![image](https://github.com/user-attachments/assets/e9cc6ba1-4b53-46fb-8e99-106e4304c007)
+
 
 
 
