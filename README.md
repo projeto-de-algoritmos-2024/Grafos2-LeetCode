@@ -18,9 +18,9 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Grafos 2, d
 ## Questões
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
-| [-](-) | Hard | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [1489 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | Mateus Orlando Medeiros Ribeiro |
 | [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
-| [-](-) | Medium | [Clique Aqui](-) | Mateus Orlando Medeiros Ribeiro |
+| [743 - Network Delay Time](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/network-delay-time/description/) | Mateus Orlando Medeiros Ribeiro |
 | [-](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
 
 
