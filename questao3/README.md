@@ -1,6 +1,6 @@
 ## #743. Network Delay Time
 
-(enunciado)
+![image](https://github.com/user-attachments/assets/bd3aa12e-c05f-4122-8169-18235ffcfcb9)
 
 [Link para a questão](https://leetcode.com/problems/network-delay-time/description/)
 
@@ -40,6 +40,8 @@ Constraints:
 - All the pairs (ui, vi) are unique. (i.e., no multiple edges.)
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/4bfbf470-9441-4abb-a11c-2d1a9dde9f33)
+![image](https://github.com/user-attachments/assets/11304b5d-e848-4824-b765-19b0023e9125)
 
 
 
