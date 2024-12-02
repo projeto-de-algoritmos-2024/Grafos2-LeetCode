@@ -1,5 +1,6 @@
 ## 847. Shortest Path Visiting All Nodes
 
+![image](https://github.com/user-attachments/assets/334c44a7-4a3d-4e65-85a1-2d4a6e7c54b1)
 
 [Link para a questão](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
@@ -43,6 +44,8 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/0b7c6dc2-4aa3-418b-b489-dcc6fc4e030b)
+![image](https://github.com/user-attachments/assets/a851d757-1bd6-40e1-a44f-4c5a52402acd)
 
 
 
