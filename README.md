@@ -19,9 +19,9 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Grafos 2, d
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
 | [1489 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao1/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/) | Mateus Orlando Medeiros Ribeiro |
-| [-](-) | Hard | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [847 - Shortest Path Visiting All Nodes](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao2/README.md) | Hard | [Clique Aqui](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/) | Johnny da Ponte Lopes |
 | [743 - Network Delay Time](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao3/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/network-delay-time/description/) | Mateus Orlando Medeiros Ribeiro |
-| [-](-) | Medium | [Clique Aqui](-) | Johnny da Ponte Lopes |
+| [1584 - Min Cost to Connect All Points](https://github.com/projeto-de-algoritmos-2024/Grafos2-LeetCode/blob/master/questao4/README.md) | Medium | [Clique Aqui](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Johnny da Ponte Lopes |
 
 
 ## Instalação 
