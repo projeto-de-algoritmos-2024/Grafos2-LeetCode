@@ -1,10 +1,10 @@
 ## 847. Shortest Path Visiting All Nodes
 
-(enunciado)
 
 [Link para a questão](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)
 
 ### Gravação
+[Link para gravação](https://www.youtube.com/watch?v=qiofA7HPYc0)
 
 #### Dificuldade: Difícil
 
