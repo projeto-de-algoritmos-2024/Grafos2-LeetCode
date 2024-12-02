@@ -1,10 +1,13 @@
 ## 1584. Min Cost to Connect All Points
 
-(enunciado)
+![image](https://github.com/user-attachments/assets/bdcf123f-5acb-48aa-aa8b-bd8017b1ebba)
+
 
 [Link para a questão](https://leetcode.com/problems/min-cost-to-connect-all-points)
 
 ### Gravação
+[Link para gravação](https://www.youtube.com/watch?v=AWvqtp4Oiro)
+
 
 #### Dificuldade: Média
 
@@ -44,6 +47,9 @@ Constraints:
 
 
 ### Submissões: 
+![image](https://github.com/user-attachments/assets/cf075ed2-c745-4aea-a23e-3ff07a6b0638)
+
+![image](https://github.com/user-attachments/assets/dbda273d-dbbc-4d4f-9a4a-54701a8ab92a)
 
 
 
